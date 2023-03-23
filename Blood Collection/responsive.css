@@ -1,0 +1,104 @@
+@media only screen and (max-width: 768px){
+    marquee{
+        font-size: 18px;
+          margin-top: 10px;        
+     }
+
+     .header .logo img{
+        width: 50px;
+    }
+
+    .hero-wrapper{
+        position: absolute;
+        content: '';
+        top: 100px;
+       left:0;    
+       
+     }
+     .hero-background h2{
+        font-size: 30px;
+       }
+
+       .hero-background .hero-wrapper .col-md-4{
+       padding: 0 20px;
+    }
+
+    .hero-background .hero-wrapper .col-md-4 .form-select{
+       margin-top: 10px;
+     }
+     .hero-background  .col-md-4 p{
+        margin-top: 10px;
+       
+       }
+
+    .hero-background .hero-wrapper .col-md-2{
+         text-align: center;
+    }
+
+    .text-animation{
+        position: absolute;
+        content: '';
+        top: 170px;
+       
+    }
+
+    .text-animation .custom-size{
+        font-size: 25px;
+        width: 100%;
+    }
+    .improve-wrapper{
+        background-color: #ED0404;
+       margin-top: 15px;
+       border-radius: 8px;
+    }
+
+    .karjokom{
+        height: 100vh;
+    }
+
+    .karjokom h2{
+        font-size: 32px;
+    }
+    .karjokom li{
+     
+      padding: 2px 0;
+      font-size: 16px;
+    }
+
+    .fotter .col-md-3 li {
+        list-style: none;
+        margin-top: 20px;
+      
+      }
+      .fotter .col-md-3 h5 {
+        font-size: 23px;
+        margin: 10px 0 0 0 ;
+       
+       
+       }
+       .fotter .col-md-3 li {
+        list-style: none;
+        margin-top: 20px;
+      
+      }
+      .fotter .col-md-3 a {
+        font-size: 20px;
+        
+    }
+    
+
+
+
+
+
+
+
+
+
+
+
+
+}
+      
+
+ 
